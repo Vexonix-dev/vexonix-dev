@@ -16,4 +16,4 @@ Interested in math, neural networks, and core ML concepts.
 
 ### Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vexonix&theme=github-dark)
+![Vexonix's chart](https://ghchart.rshah.org/00e676/Vexonix)
