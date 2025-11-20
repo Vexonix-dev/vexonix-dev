@@ -12,3 +12,8 @@ Interested in math, neural networks, and core ML concepts.
 - Neural network basics  
 - Python for data and modeling  
 
+---
+
+### Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vexonix&theme=github-dark)
