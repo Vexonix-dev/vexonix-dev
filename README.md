@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vexonix
 
-<!--
-**Vexonix-dev/vexonix-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring Machine Learning and Python.  
+Working on small projects and improving daily.  
+Interested in math, neural networks, and core ML concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Math for ML  
+- Machine Learning fundamentals  
+- Neural network basics  
+- Python for data and modeling  
+
+---
+
+![Vexonix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexonix&show_icons=true&theme=dark)
